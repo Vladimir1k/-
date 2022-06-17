@@ -1,5 +1,3 @@
-Мой диск
-
 package main
 
 import "fmt"
